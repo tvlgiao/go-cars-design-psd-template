@@ -1,2 +1,1 @@
-# go-cars-design-psd-template
-Go Cars - PSD Template Design for Car Dealers WordPress Site 
+# Go Cars - PSD Template Design for Car Dealers WordPress Site 
